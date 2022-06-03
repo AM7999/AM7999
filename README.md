@@ -4,7 +4,9 @@ Hobbies Include
 - Linux
 - Löve 2D (2d game engine)
 - Console Modding
-probably more but i forgor 💀
+
+
+-probably more but i forgor 💀
 
 
 ![Wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=AM7999&compat=true&theme=radical)

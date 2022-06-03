@@ -9,8 +9,6 @@ Hobbies Include
 -probably more but i forgor 💀
 
 
-![Wakatime statistics](https://github-readme-stats.vercel.app/api/wakatime?username=AM7999&compat=true&theme=radical)
-
 
 
 

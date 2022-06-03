@@ -1,16 +1,20 @@
-### Hi there 👋
+Hey there just a random furry who likes to mess arround in Lua and is trying to learn C++
 
-<!--
-**AM7999/AM7999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hobbies Include 
+- Linux
+- Löve 2D (2d game engine)
+- Console Modding
+probably more but i forgor 💀
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+fortnite enjoyer, beware

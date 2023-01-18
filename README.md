@@ -1,4 +1,4 @@
-Hey there just a random furry who likes to mess arround in Lua and is trying to learn C++
+Hey there just a random furry who likes to mess arround in Lua and is trying to learn Java
 
 Hobbies Include 
 - Linux

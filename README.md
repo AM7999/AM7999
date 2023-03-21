@@ -4,7 +4,7 @@ Hobbies Include
 - Linux
 - Löve 2D (2d game engine)
 - Console Modding
-
+- Java
 
 -probably more but i forgor 💀
 

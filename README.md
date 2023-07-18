@@ -2,7 +2,7 @@ Hey there just a random furry who likes to mess arround in Lua and is trying to 
 
 Hobbies Include 
 - Linux
-- Löve 2D (2d game engine)
+- Löve 2D 
 - Console Modding
 - Java
 

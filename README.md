@@ -5,9 +5,7 @@ Hobbies Include
 - Löve 2D 
 - Console Modding
 - Java
-
--probably more but i forgor 💀
-
+- C++
 
 
 
@@ -17,4 +15,6 @@ Hobbies Include
 
 
 
-fortnite enjoyer, beware
+
+
+Fortnite AND Overwatch 2 enjoyer, beware

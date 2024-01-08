@@ -7,14 +7,7 @@ Hobbies Include
 - Java
 - C++
 
-
-
-
-
-
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM7999&langs_count=8)
 
 
 Fortnite AND Overwatch 2 enjoyer, beware

@@ -6,6 +6,9 @@ Hobbies Include
 - Console Modding
 - Java
 - C++
+- Picotron
+- Lua
+- Html
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM7999&langs_count=8)
 

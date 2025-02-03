@@ -6,6 +6,7 @@ Hobbies Include
 - Console Modding
 - Java
 - C++
+- C#
 - Picotron
 - Lua
 - Html

@@ -1,17 +1,3 @@
-Hey there, just a random furry who likes to mess around in Lua and is trying to learn C++
+# MOVING PROJECTS TO HTTPS://GIT.GAY
 
-Hobbies Include 
-- Linux
-- Löve 2D 
-- Console Modding
-- Java
-- C++
-- C#
-- Picotron
-- Lua
-- Html
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM7999&hide=lua)
-
-
-Fortnite AND Overwatch 2 enjoyer, beware
+# PLEASE READ: https://www.tomshardware.com/software/programming/github-folds-into-microsoft-following-ceo-resignation-once-independent-programming-site-now-part-of-coreai-team
